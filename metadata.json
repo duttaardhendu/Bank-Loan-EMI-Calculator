@@ -1,0 +1,5 @@
+{
+  "name": "Bank Advanced Loan Calculator",
+  "description": "A dynamic loan calculator that automatically computes missing values like EMI, loan amount, or tenure as you input other details. It also generates a detailed amortization schedule for your loan.",
+  "requestFramePermissions": []
+}
